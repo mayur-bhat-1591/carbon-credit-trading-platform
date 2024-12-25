@@ -36,4 +36,4 @@ A modern platform enabling transparent and efficient carbon credit trading.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/carbon-credit-trading-platform.git
+git clone https://github.com/mayur-bhat-1591/carbon-credit-trading-platform.git
